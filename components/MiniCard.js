@@ -16,7 +16,7 @@ const MiniCard = ({ source, Name, Btn }) => {
                         <Star />
                         <Text style={tw`text-white`}>4.5</Text>
                     </View>
-                    <View style={tw`flex-row items-center gap-2`}>
+                    <View style={tw`flex-row items-center gap-3`}>
                         <Download />
                         <Text style={tw`text-white`}>10M</Text>
                     </View>
